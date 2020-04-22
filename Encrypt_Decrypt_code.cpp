@@ -1,3 +1,16 @@
+/*Your task is to encrypt data to prevent spying during data communications. The
+sender uses a filter to encrypt the data in question, and the receiver uses the
+same filter to decrypt the transmission.
+a. Define the function swapBits() that swaps two bits in an int value. The
+int value and the positions of the bits to be swapped are passed as arguments to
+the function. The return value is the new int value. If one of the positions passed
+to the function is invalid, the int value should be returned unchanged.
+b. Write a filter that swaps the bits at bit positions 5 and 6, 0 and 4, and 1
+and 3 in all characters except control characters (defined as ASCII Code >= 32).
+Test the filter by writing the encrypted output to a file and then using the same
+filter to output the new file. The output must comprise the original unencrypted
+data.*/
+
 #include<bits/stdc++.h>
 using namespace std;
 #define ll long long 

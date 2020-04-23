@@ -1,2 +1,2 @@
 # some-practice-codes
-easy codes in C/C++
+C/C++

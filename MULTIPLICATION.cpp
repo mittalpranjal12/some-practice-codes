@@ -1,3 +1,5 @@
+//program for multiplication of two matrices using OOP.
+
 #include<iostream>
 #include<conio.h>
 
@@ -68,7 +70,6 @@ int main()
 {
 		  int m,n,p,q;
 
-
 		  std::cout<<"enter first matrix size: \n";
 		  std::cin>>m>>n;
 		  matrix m1(m,n);
@@ -86,7 +87,7 @@ int main()
 		  m2.disp_mat();
 		  std::cout<<"\nMatrix multiplication is:\n";
 		  m3.disp_mat();
-		  return 0;
+return 0;
 }
 
 

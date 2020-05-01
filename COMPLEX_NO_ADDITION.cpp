@@ -1,3 +1,9 @@
+/*Write a program to perform addition of two complex numbers using constructor overloading. 
+The first constructor which takes no arguments is used to create objects which are not initialized. 
+Second, which takes one argument is used to initialize real and imaginary parts to equal values and third which takes 
+two arguments is used to initialize real and imaginary parts to two different values.*/ 
+
+
 #include<iostream>
 #include<conio.h>
 

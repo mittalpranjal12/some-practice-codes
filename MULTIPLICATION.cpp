@@ -1,4 +1,4 @@
-//program for multiplication of two matrices using OOP.
+// WAP for multiplication of two matrices using OOP.
 
 #include<iostream>
 #include<conio.h>

@@ -1,3 +1,6 @@
+// Find greatest of two numbers in two different classes using friend function C++
+
+
 #include<iostream>
 
 using namespace std;

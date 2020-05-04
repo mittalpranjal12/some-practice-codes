@@ -1,3 +1,7 @@
+/*WAP to demonstrate the use of special functions, constructor and destructor in the class template. 
+The program is used to find the bigger of two entered numbers.*/
+
+
 #include<iostream>
 #include<conio.h>
 

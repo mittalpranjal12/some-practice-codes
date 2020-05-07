@@ -1,4 +1,4 @@
-/*Create a class called LIST with two pure virtual function store() and retrieve(). To store a value call store and to retrieve call
+/* WAP to create a class called LIST with two pure virtual function store() and retrieve(). To store a value call store and to retrieve call
 retrieve function. Derive two classes stack and queue from it and override store and retrieve.*/
 
 #include<iostream>
